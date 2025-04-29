@@ -64,5 +64,21 @@ The dataset includes the following key fields:
 - **Clean, responsive visuals** suitable for both executives and analysts
 
 ---
+## 📌 Tools Used
+Power BI: Data modeling, DAX, and visualization
+
+Excel/CSV: Data preprocessing and transformation
+
+---
+## 📣 How to Use
+- Open the .pbix file in Power BI Desktop.
+
+- Use slicers to filter the dashboard by year, region, and product.
+
+- Hover on visuals to get deeper insights.
+
+- Drill down into charts to explore detailed trends.
+
+---
 ## 📞 Contact & Support
 - **For any questions**: Feel free to reach out! 🚀📊 7829981526 , Shraddhakharvi2024@gmail.com
