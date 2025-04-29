@@ -1,4 +1,6 @@
 # 📊 Market Sales Visualization Dashboard
+![image](https://github.com/user-attachments/assets/46ac9cc1-891a-4b10-a1ec-d38679351666)
+![image](https://github.com/user-attachments/assets/899130bc-bade-4a5d-9eef-ed272295fb7c)
 
 ## 📝 Overview
 
@@ -56,19 +58,10 @@ The dataset includes the following key fields:
 
 ## 🛠️ Features
 
-- **Interactive Filters**: Slicers for Year, Region, Product Line, etc.
+- **Interactive Filters**: Slicers for Deal size, Region, Product Line, etc.
 - **Drill-through** functionality to analyze individual product/customer records
 - **Tooltips** for quick metric insight
 - **Clean, responsive visuals** suitable for both executives and analysts
 
 ---
 
-## 📂 File Structure
-
-```bash
-├── PowerBI_Dashboard.pbix
-├── README.md
-├── data/
-│   └── sample-sales-data.csv
-├── assets/
-│   └── dashboard-screenshots/
